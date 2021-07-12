@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickDW
-- 👀 I am interested in Machine Learning and Robotics
+- 👀 I am interested in designing intelligent systems, robotics, and machine learning
 - 🌱 I’m currently focusing on Reinforcement Learning
 
 <!---
