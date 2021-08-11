@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RickDW
-- 👀 I am interested in designing intelligent systems, robotics, and machine learning
-- 🌱 I’m currently focusing on Reinforcement Learning
+👋 Hi, I’m @RickDW, I am interested in designing intelligent systems, robotics, and machine learning. I’m currently focused on Reinforcement Learning
 
 <!---
 RickDW/RickDW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
